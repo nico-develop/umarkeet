@@ -53,7 +53,7 @@ export default {
 
   pwa: {
     manifest: {
-      short_name: 'U Markeet',
+      short_name: 'UMarkeet',
       name: 'U Markeet',
       description: 'U Markeet is the better growth hacking app',
       lang: 'en',
@@ -70,7 +70,7 @@ export default {
           "sizes": "512x512"
         }
       ],
-      start_url: '.',
+      start_url: '/',
       background_color: '#2471A3',
       theme_color: '#2471A3'
     }
