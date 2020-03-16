@@ -1,0 +1,25 @@
+{
+  "name": "umarkeet",
+  "version": "1.0.0",
+  "description": "U Markeet app is awesome bast app",
+  "author": "nico-develop",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/dotenv": "^1.4.0",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "nuxt": "^2.0.0",
+    "vue-social-sharing": "^2.4.7"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "font-awesome": "^4.7.0"
+  }
+}
